@@ -1,0 +1,296 @@
+{
+  "category": "ENTITY_SPIRIT",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/alp",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "alp",
+    "name": "Alp",
+    "aliases": [
+      {
+        "name": "Alptraum",
+        "language": "German",
+        "meaning": "Alp-dream, nightmare"
+      },
+      {
+        "name": "Mahr",
+        "language": "German",
+        "region": "Southern Germany"
+      },
+      {
+        "name": "Nachtmahr",
+        "language": "German",
+        "meaning": "Night-mare"
+      }
+    ],
+    "category": "ENTITY_SPIRIT",
+    "subcategory": "Germanic Nightmare Spirit",
+    "tags": [
+      "germanic",
+      "nightmare-spirit",
+      "sleep-paralysis",
+      "shapeshifter",
+      "vampire-like",
+      "folklore",
+      "tarnkappe"
+    ],
+    "status": "folklore",
+    "description": {
+      "summary": "German and Austrian nightmare spirit, the male counterpart to the Mara. A small male entity that wears a magic hat (tarnkappe) granting invisibility and oppresses sleepers, causing nightmares and sleep paralysis.",
+      "full": "The Alp is a creature from German and Austrian folklore, representing the male version of the nightmare spirit. Traditionally depicted as a small male entity wearing a magic hat called a tarnkappe that grants invisibility and supernatural powers, the Alp attacks sleepers by sitting on their chests, causing nightmares, sleep paralysis, and difficulty breathing. The Alp is also known for shapeshifting abilities, appearing as various animals including cats, pigs, birds, dogs, and snakes. In folklore, Alps are born from difficult births, children of witches, or sometimes represent the returning spirits of those who died unbaptized. The entity particularly targets women and children, and is said to drink blood or breast milk. Like other sleep paralysis entities, the Alp represents a cultural interpretation of the universal human experience of sleep paralysis."
+    },
+    "etymology": {
+      "origin": "From Old High German 'alp', related to Old English 'ælf' (elf) and Old Norse 'alfr'",
+      "meaning": "Originally may have meant 'elf' but evolved to mean nightmare demon",
+      "first_use": "Medieval German texts"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "ENTITY_SPIRIT",
+      "type": "Nightmare Spirit",
+      "subtype": "Germanic Male Mare",
+      "variant": "German/Austrian"
+    },
+    "related_phenomena": [
+      {
+        "id": "mara",
+        "name": "Mara",
+        "relationship": "female_counterpart",
+        "description": "Female nightmare spirit, Slavic/Germanic"
+      },
+      {
+        "id": "mare",
+        "name": "Mare",
+        "relationship": "cultural_variant",
+        "description": "Generic European nightmare spirit"
+      },
+      {
+        "id": "night-hag",
+        "name": "Night Hag",
+        "relationship": "similar",
+        "description": "Sleep paralysis demon across cultures"
+      },
+      {
+        "id": "succubus-incubus",
+        "name": "Incubus",
+        "relationship": "related",
+        "description": "Male demon that oppresses sleepers"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "base_form": [
+        {
+          "feature": "Size",
+          "description": "Small male entity, often dwarf-like",
+          "frequency": "common"
+        },
+        {
+          "feature": "Tarnkappe",
+          "description": "Magic hat that grants invisibility and powers",
+          "frequency": "always"
+        },
+        {
+          "feature": "Appearance",
+          "description": "When visible, may appear as small man or demonic figure",
+          "frequency": "varies"
+        }
+      ],
+      "shapeshifted_forms": [
+        "Cat",
+        "Pig",
+        "Bird",
+        "Dog",
+        "Snake",
+        "Demonic creature",
+        "White butterfly or moth"
+      ],
+      "morphology": "Capable of shapeshifting into various animal forms. Power concentrated in magic hat."
+    },
+    "abilities": [
+      {
+        "ability": "Invisibility",
+        "description": "Tarnkappe grants invisibility",
+        "frequency": "always",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Shapeshifting",
+        "description": "Can transform into various animals",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Chest oppression",
+        "description": "Sits on sleeper's chest causing paralysis and nightmares",
+        "frequency": "always",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Blood drinking",
+        "description": "Drinks blood or breast milk from victims",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Nightmare induction",
+        "description": "Causes terrifying dreams and sleep paralysis",
+        "frequency": "always",
+        "evidence_level": "folklore"
+      }
+    ],
+    "behavior": {
+      "activity_period": "nocturnal",
+      "disposition": "malevolent",
+      "preferred_targets": "Particularly women and children",
+      "attack_pattern": "Enters through keyholes, sits on chest, causes nightmares",
+      "vulnerability": "Removing tarnkappe renders Alp powerless"
+    }
+  },
+
+  "origins": {
+    "birth_methods": [
+      "Born from difficult or traumatic birth",
+      "Child of a witch",
+      "Unbaptized child who died",
+      "Person cursed to become Alp",
+      "Born with caul (amniotic sac)"
+    ],
+    "identification": [
+      "Person who becomes Alp may not know during waking hours",
+      "May appear tired or haggard after night activities",
+      "Sometimes born with physical marks"
+    ]
+  },
+
+  "protection": {
+    "preventive_measures": [
+      {
+        "method": "Iron objects",
+        "description": "Place iron under pillow or near bed",
+        "effectiveness": "traditional"
+      },
+      {
+        "method": "Shoes upside down",
+        "description": "Turn shoes upside down at bedside",
+        "effectiveness": "traditional"
+      },
+      {
+        "method": "Christian symbols",
+        "description": "Crosses, holy water, prayers",
+        "effectiveness": "traditional"
+      },
+      {
+        "method": "Block entry",
+        "description": "Plug keyholes, seal openings",
+        "effectiveness": "traditional"
+      },
+      {
+        "method": "Broom by door",
+        "description": "Alp must count broom straws, delaying entry until dawn",
+        "effectiveness": "traditional"
+      }
+    ],
+    "combat": [
+      {
+        "method": "Remove tarnkappe",
+        "description": "Stealing the magic hat renders Alp powerless",
+        "effectiveness": "traditional"
+      },
+      {
+        "method": "Call Alp by name",
+        "description": "Speaking the Alp's true name may banish it",
+        "effectiveness": "traditional"
+      }
+    ]
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Germanic cultural regions, particularly Germany and Austria",
+      "continents": ["Europe"],
+      "countries": ["Germany", "Austria", "Switzerland"],
+      "regions": [
+        "Southern Germany",
+        "Austria",
+        "German-speaking Switzerland",
+        "Germanic cultural areas"
+      ]
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Germanic and Austrian folk tradition dating to medieval period or earlier",
+      "earliest_accounts": "Medieval German texts and oral traditions",
+      "folklore_connections": "Part of broader European nightmare spirit traditions"
+    },
+    "cultural_context": "Represents Germanic cultural interpretation of sleep paralysis and nightmares. Related to broader European traditions of nightmare entities and shapeshifting spirits."
+  },
+
+  "scientific_explanation": {
+    "interpretation": "The Alp represents a cultural explanation for sleep paralysis, a well-documented medical phenomenon. The sensation of chest pressure, inability to move, and hallucinations during sleep-wake transitions were interpreted through the lens of Germanic folklore as attacks by a malevolent spirit.",
+    "sleep_paralysis": "Physiologically identical to other sleep paralysis experiences worldwide, but culturally interpreted as the Alp",
+    "status": "Traditional folklore explaining medical phenomenon"
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Germanic nightmare folklore",
+        "Austrian folk traditions",
+        "German fairy tale and legend traditions"
+      ],
+      "role": "Served as explanation for sleep disturbances, particularly in children and nursing mothers",
+      "cultural_sensitivity": "Germanic folk tradition, should be presented respectfully within cultural context"
+    },
+    "popular_culture": {
+      "literature": [
+        "German fairy tale collections",
+        "Medieval German texts",
+        "Modern fantasy incorporating Germanic folklore"
+      ],
+      "influence": "Contributed to European nightmare and shapeshifter folklore traditions"
+    }
+  },
+
+  "sources": [
+    {
+      "id": "grimm-1835",
+      "type": "book",
+      "title": "Deutsche Mythologie (Teutonic Mythology)",
+      "authors": ["Jacob Grimm"],
+      "publication": "Various editions",
+      "date": "1835"
+    },
+    {
+      "id": "lecouteux-2003",
+      "type": "book",
+      "title": "Witches, Werewolves, and Fairies: Shapeshifters and Astral Doubles in the Middle Ages",
+      "authors": ["Claude Lecouteux"],
+      "publication": "Inner Traditions",
+      "date": "2003",
+      "isbn": "978-0892811199"
+    }
+  ]
+}
