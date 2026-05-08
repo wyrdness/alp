@@ -1,308 +1,164 @@
 # Alp
 
-> *"A small figure sat upon my chest—I saw his hat but could not see his face."*
+> A male nightmare spirit of German and Austrian folklore that sits on the chests of sleepers, causing oppressive dreams, sleep paralysis, and breathlessness; closely related to the female Mara of broader Germanic tradition.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-folklore-orange)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `alp` |
 | **Category** | ENTITY_SPIRIT |
-| **Classification** | Germanic Nightmare Spirit |
-| **Cultural Origin** | Germany, Austria |
-| **Status** | Folklore / Sleep Paralysis |
+| **Subcategory** | Nightmare / sleep paralysis spirit |
+| **First recorded** | 9th–11th c. |
+| **Primary range** | Alp belief is concentrated in German-speaking Europe (Germany, Austria, German-speaking Switzerland) with overlapping traditions in neighbouring regions sharing the broader Mara complex |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-The Alp is a creature from German and Austrian folklore, representing the male version of the nightmare spirit. Traditionally depicted as a small male entity wearing a magic hat called a **tarnkappe** that grants invisibility and supernatural powers, the Alp attacks sleepers by sitting on their chests, causing nightmares, sleep paralysis, and difficulty breathing.
-
-The Alp is also known for shapeshifting abilities, appearing as various animals including cats, pigs, birds, dogs, and snakes. In folklore, Alps are born from difficult births, children of witches, or sometimes represent the returning spirits of those who died unbaptized. The entity particularly targets women and children, and is said to drink blood or breast milk.
-
-Like other sleep paralysis entities, the Alp represents a cultural interpretation of the universal human experience of sleep paralysis.
+The Alp (also Alb, plural Alpen or Albe) is a male nightmare-bringing spirit central to German and Austrian folklore. Witnesses and folk accounts describe a small, often unseen male figure that climbs onto a sleeper at night and presses on the chest, causing the sensation of being crushed (Alpdruck, 'elf-pressure'), suffocation, and immobility. The Alp is associated with the Tarnkappe, a 'concealment cap' that grants invisibility, and with shapeshifting into cats, pigs, dogs, snakes, birds, and white butterflies. Beliefs about its origin vary: in some traditions Alps are stillborn children, the unbaptized dead, or are born to women under particular conditions (a child with eyebrows that meet, or born in a caul). The Alp shares a Common Germanic root with the English word elf, and the term 'Alpdruck' is a clear cognate of English 'nightmare' (and the noun 'Alp' was eventually superseded by 'Albtraum' in modern German). Modern medicine and folklore studies recognise the experience underlying Alp belief as sleep paralysis with hypnagogic hallucination, a cross-cultural pattern documented under names such as the Mara, the Old Hag, the Pisadeira, and the kanashibari.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Alb | German |  |
+| Trud | German / Southern Germany |  |
+| Mar | German |  |
+| Mart | German |  |
+| Mahr | German |  |
+| Schrat | German / Alpine regions |  |
+| Walrider | Low German |  |
+| Nachtmahr | German | night-mare |
 
-### Primary Name
-- **Alp** — From Old High German 'alp', related to Old English 'ælf' (elf) and Old Norse 'alfr'
+## Etymology
 
-### Alternative Names
-
-| Name | Language | Meaning |
-|------|----------|---------|
-| Alptraum | German | "Alp-dream" (nightmare) |
-| Mahr | German | Southern German variation |
-| Nachtmahr | German | "Night-mare" |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: ENTITY_SPIRIT
-├── Type: Nightmare Spirit
-├── Subtype: Germanic Male Mare
-└── Variant: German/Austrian
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Mara](/mara) | Female counterpart | Slavic/Germanic female nightmare spirit |
-| [Mare](/mare) | Cultural variant | Generic European nightmare spirit |
-| [Night Hag](/night-hag) | Similar | Sleep paralysis demon across cultures |
-| [Incubus](/succubus-incubus) | Related | Male demon that oppresses sleepers |
+- **Origin**: The German Alp / Alb derives from Common Germanic *albiz, the same root as English 'elf' and Old Norse 'álfr'. The compound 'Alpdruck' literally means 'Alp-pressure'.
+- **Meaning**: Originally a generic term for an elf or supernatural being; specialised in German into the chest-pressing nightmare spirit.
+- **First use**: Old High German alp is attested from at least the 9th century; modern Alp / Albtraum sense becomes standard by the 18th century.
 
 ---
+## Related Phenomena
 
-## Characteristics
-
-### Physical Appearance
-
-**Base Form**:
-- Small male entity, often dwarf-like in stature
-- Wears the **tarnkappe** (magic hat) granting invisibility
-- When visible, appears as small man or demonic figure
-- Often described with sinister or mischievous features
-
-### The Tarnkappe
-
-The **tarnkappe** (literally "camouflage cap" or "cap of concealment") is central to the Alp's power:
-- Grants complete invisibility to wearer
-- Source of the Alp's supernatural abilities
-- **Crucial Weakness**: Removing the hat renders the Alp powerless
-- Sometimes depicted as nightcap or hood
-
-### Shapeshifted Forms
-
-The Alp can appear as:
-- Cat (most common animal form)
-- Pig
-- Bird
-- Dog
-- Snake
-- Demonic creature
-- White butterfly or moth
-- Small rodent
+- [Mara](../mara/) — _counterpart_: Female chest-pressing nightmare spirit of broader Germanic / Scandinavian tradition
+- [Old Hag](../old-hag/) — _similar_: Newfoundland sleep-paralysis figure
+- [Pisadeira](../pisadeira/) — _similar_: Brazilian chest-pressing sleep-paralysis figure
+- [Kanashibari](../kanashibari/) — _similar_: Japanese sleep-paralysis tradition
+- [Incubus](../incubus/) — _similar_: Latin / Christian male nocturnal entity
 
 ---
+## Physical Description
 
-## Abilities
+- **Morphology**: Primarily known by effect rather than direct visual appearance; when seen, typically as a small, hat-wearing male figure or as one of its animal disguises.
 
-| Ability | Description | Evidence Level |
-|---------|-------------|----------------|
-| Invisibility | Tarnkappe grants invisibility | Folklore |
-| Shapeshifting | Transforms into various animals | Folklore |
-| Chest oppression | Sits on sleeper's chest causing paralysis | Folklore |
-| Blood drinking | Drinks blood or breast milk | Folklore |
-| Nightmare induction | Causes terrifying dreams | Folklore |
-| Entry through keyholes | Can slip through tiny openings | Folklore |
+### Features
 
----
+| Feature | Description | Frequency |
+|---|---|---|
+| Tarnkappe (concealment cap) | A magical hat that grants invisibility; said to be worn by the Alp at all times | always |
+| Small male form | Typically described as a small male figure, though invisible during attacks | common |
+| Evil eye | A gaze that brings illness or misfortune | occasional |
 
-## Behavior & Attack Pattern
+## Reported Abilities
 
-### Activity
-- **Period**: Nocturnal
-- **Disposition**: Malevolent
-- **Preferred Targets**: Women and children, especially nursing mothers
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Shapeshifting | Transforms into cats, pigs, dogs, snakes, birds, or white butterflies | common | folklore |
+| Invisibility (Tarnkappe) | The concealment cap renders the Alp unseen | always | folklore |
+| Chest pressure (Alpdruck) | Sits on the sleeper's chest, producing breathlessness and immobility | always | folklore |
+| Souring milk and tangling hair | Petty malice, including souring of stored milk and the tangling of human or horse hair into 'elf-knots' (Alpzopf) | common | folklore |
+| Riding horses to exhaustion | Said to ride horses through the night, leaving them sweating and tangled | occasional | folklore |
 
-### Typical Attack
-1. Enters bedroom through keyhole or small opening (often as smoke or small animal)
-2. Approaches sleeping victim
-3. Sits or presses down on chest
-4. Induces nightmares and paralysis
-5. May drink blood or breast milk
-6. Departs before dawn
+## Behavior
 
-### Vulnerability
-**Critical Weakness**: The Alp's power is tied to the tarnkappe. If the hat is removed or stolen, the Alp becomes powerless and may even be trapped in human form.
+- **Activity**: nocturnal
+- **Disposition**: aggressive
+- **Social structure**: solitary
+- **Habitat**: bedrooms, barns and stables, domestic spaces
 
 ---
+## Distribution
 
-## Origins of the Alp
+Alp belief is concentrated in German-speaking Europe (Germany, Austria, German-speaking Switzerland) with overlapping traditions in neighbouring regions sharing the broader Mara complex.
 
-### How Alps Are Created
-
-According to Germanic folklore, a person becomes an Alp through:
-
-1. **Difficult Birth**: Born from traumatic or problematic delivery
-2. **Witch's Child**: Born to a witch or conceived through witchcraft
-3. **Caul Birth**: Born with amniotic sac over face
-4. **Unbaptized Death**: Child who died before baptism
-5. **Curse**: Person cursed to become Alp
-
-### Unknowing Alps
-
-In some traditions, a person may be an Alp without conscious knowledge. Their spirit wanders at night while they sleep, and they may:
-- Wake exhausted despite sleeping
-- Appear haggard or tired
-- Have no memory of night activities
-- Show physical signs (certain birthmarks or features)
 
 ---
+## Historical Timeline
 
-## Protection Against the Alp
+| Date | Event | Significance |
+|---|---|---|
+| 9th–11th c. | Old High German texts invoke protection against alp / alb | Earliest written attestations |
+| 1835 | Jacob Grimm publishes 'Deutsche Mythologie', systematising Alp / Alb beliefs | Foundational text of German folkloristics on the Alp |
+| 1781 | Henry Fuseli paints 'The Nightmare', depicting an incubus-like figure on a sleeper's chest | Iconic visual representation of the Alp / Mara complex in Western art |
 
-### Preventive Measures
+## Evidence
 
-| Method | Description | Cultural Basis |
-|--------|-------------|----------------|
-| Iron objects | Place iron under pillow or near bed | Germanic tradition |
-| Shoes upside down | Turn shoes upside down at bedside | German folklore |
-| Christian symbols | Crosses, holy water, prayers | Christian influence |
-| Block entry points | Plug keyholes, seal openings | Germanic tradition |
-| Broom by door | Alp must count broom straws until dawn | German folklore |
-| Garlic | Hang garlic in room | European tradition |
+### Documentary
 
-### Active Defense
-
-**Steal the Tarnkappe**: If you can grab the Alp's magic hat during an attack, the creature loses all powers and may be bound to serve you or be destroyed.
-
-**Call the Alp by Name**: Speaking the Alp's true name may banish it.
-
-**Prayer**: Christian prayers, especially invoking divine protection.
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Deutsche Mythologie (Grimm, 1835) |  | Jacob Grimm's collation of Germanic mythological and folk-belief material, including chapters on Alp / Alb / Mar and the Tarnkappe. | verified |
 
 ---
+## Theories & Explanations
 
-## Geographic Distribution
+### Paranormal / Cryptozoological
 
-### Primary Range
-- **Germany**: Particularly southern regions
-- **Austria**: Throughout Alpine regions
-- **Switzerland**: German-speaking areas
-- **Germanic cultural regions**: Wherever German folklore traditions spread
+**Spirit / demonic entity** _(Traditional German folk-belief)_
 
----
+Folk-belief frames the Alp as an actual nocturnal entity that physically attacks sleepers, sometimes identified with the souls of unbaptized dead or stillborn children.
 
-## Cultural Context
+### Scientific
 
-### Germanic Folklore Role
+**Sleep paralysis with hypnagogic hallucination** _(Sleep medicine researchers, Cross-cultural folklorists)_
 
-The Alp served important cultural functions:
-- Explanation for infant distress and crying
-- Reason for nursing difficulties
-- Cause of sleep disturbances
-- Warning about proper baptism and childbirth practices
+The Alp experience corresponds to REM-sleep atonia persisting briefly into wakefulness, accompanied by chest-pressure sensation and hallucinated presence.
 
-### Cultural Sensitivity
+### Skeptical
 
-> ⚠️ **Note**: The Alp is part of Germanic folk heritage and should be presented respectfully within its cultural context. These traditions represent how German and Austrian ancestors understood sleep and dream experiences.
+**Cultural framing of common physiological event** _(David Hufford)_
 
----
+The Alp is the German cultural interpretation of a universal physiological experience, requiring no entity-level explanation.
 
-## Scientific Explanation
 
-### Sleep Paralysis Interpretation
+## Popular Culture
 
-The Alp represents Germanic cultural interpretation of **sleep paralysis**:
+**Literature**: Grimm, Jacob (1835), Deutsche Mythologie; Hufford, David (1982), The Terror That Comes in the Night
 
-**Physical Symptoms**:
-- Paralysis upon waking → "Alp sitting on chest"
-- Chest pressure → "Small entity pressing down"
-- Difficulty breathing → "Alp suffocating victim"
-- Inability to move or speak → "Alp's supernatural hold"
-- Hallucinations → "Seeing the Alp or its animal forms"
-
-**Modern Understanding**: These symptoms result from REM atonia persisting into waking consciousness—a well-documented medical phenomenon.
+**Film / TV**: Henry Fuseli, 'The Nightmare' (1781) — visual representation of the chest-pressing nightmare figure
 
 ---
+## Research
 
-## Related Germanic Traditions
+### Researchers
 
-### Connection to Elves
-The word "Alp" is etymologically related to "elf" (Old English ælf, German Elf), suggesting ancient connections between nightmare demons and fairy folk in Germanic tradition.
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Jacob Grimm | University of Göttingen | Systematic documentation of Germanic folklore including Alp | 1819–1863 |
+| David J. Hufford | Penn State College of Medicine | Cross-cultural study of sleep-paralysis 'old hag' / Alp experiences | 1976–present |
 
-### Shapeshifting Traditions
-The Alp's shapeshifting abilities connect to broader Germanic traditions of:
-- Werewolves (werwolf)
-- Skinwalkers
-- Soul wandering in animal form
-- Shamanic transformation traditions
+Folklore departments and sleep-medicine groups continue cross-cultural research on the Alp / Mara / Old Hag complex.
 
 ---
+## Sources
 
-## Folklore Examples
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-### The Trapped Alp
-Traditional story: A clever farmwife, experiencing nightly visits from an Alp, lay in wait and managed to grab the creature's tarnkappe. With the hat in her possession, the Alp was rendered powerless and forced to serve her household, unable to harm anyone until she eventually returned the hat out of pity.
 
-### The Counting Compulsion
-Like many Germanic spirits, the Alp has a compulsion to count things (similar to vampires counting grains). Placing a broom by the door forces the Alp to count every straw, keeping it occupied until sunrise when it must flee.
+## How to Report a Sighting
 
----
-
-## Artistic & Literary Traditions
-
-### German Fairy Tales
-The Alp appears in various German fairy tale collections and folk stories, particularly those compiled in the 19th century during the Romantic period's interest in folk traditions.
-
-### Modern Fantasy
-The Alp has influenced modern fantasy literature and games featuring Germanic mythology and folklore creatures.
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const alp = await wyrd.getPhenomenon('alp');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/alp/main/api.json
-```
-
----
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Primary Sources
-
-- Grimm, J. (1835). *Deutsche Mythologie (Teutonic Mythology)*.
-- Lecouteux, C. (2003). *Witches, Werewolves, and Fairies: Shapeshifters and Astral Doubles in the Middle Ages*. Inner Traditions.
-
----
-
-## Changelog
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2026-01-14 | Initial release |
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Report Experience](../../issues/new) • [Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
